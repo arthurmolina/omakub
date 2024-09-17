@@ -16,10 +16,20 @@ alias ....='cd ../../..'
 alias n='nvim'
 alias g='git'
 alias d='docker'
-alias r='rails'
 alias bat='batcat'
+alias cat='bat --style=auto'
 alias lzg='lazygit'
 alias lzd='lazydocker'
+alias top='btm'
+alias s='grep -Ril %1 ./'
+
+# Rails
+alias r='rails'
+alias rs='rails s'
+alias rc='rails c'
+
+# Docker Compose
+alias dcu='docker compose up'
 
 # Git
 alias gcm='git commit -m'

@@ -1,0 +1,11 @@
+source ~/.local/share/omakub/defaults/bash/rc
+
+source ~/.zsh/powerlevel10k/powerlevel10k.zsh-theme
+source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
+
+# To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
+[[ ! -f ~/.local/share/omakub/configs/p10k.zsh ]] || source ~/.local/share/omakub/configs/p10k.zsh
+
+# Editor used by CLI
+export EDITOR="nvim"
+export SUDO_EDITOR="$EDITOR"
