@@ -1,0 +1,3 @@
+source ~/.local/share/omakub/defaults/zsh/shell
+source ~/.local/share/omakub/defaults/bash/aliases
+source ~/.local/share/omakub/defaults/zsh/init

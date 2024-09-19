@@ -1,6 +1,9 @@
 # Remove Btop entry for one that runs in alacritty
 sudo rm -rf /usr/share/applications/btop.desktop
 
+# Remove Bottom entry for one that runs in alacritty
+sudo rm -rf /usr/share/applications/bottom.desktop
+
 # App doesn't do anything when started from the app grid
 sudo rm -rf /usr/share/applications/org.flameshot.Flameshot.desktop
 

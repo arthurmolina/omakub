@@ -1,2 +1,2 @@
 # DBeaver Universal Database Tool
-flatpak install flathub io.dbeaver.DBeaverCommunity
+flatpak install -y flathub io.dbeaver.DBeaverCommunity

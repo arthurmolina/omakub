@@ -1,4 +1,4 @@
-source ~/.local/share/omakub/defaults/bash/rc
+source ~/.local/share/omakub/defaults/zsh/rc
 
 source ~/.zsh/powerlevel10k/powerlevel10k.zsh-theme
 source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
