@@ -1,2 +1,2 @@
 # Telegram Desktop
-sudo snap install telegramdesktop
+sudo snap install telegram-desktop
